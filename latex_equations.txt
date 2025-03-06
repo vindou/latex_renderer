@@ -1,0 +1,100 @@
+0||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+1||\int c dc
+2||\int v dv
+3||\sum_{i=1}^n n_i
+4||a ^ w
+5||\int e de
+6||\cos(i)
+7||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+8||\int q dq
+9||x + x
+10||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+11||m / u
+12||s - u
+13||y ^ w
+14||z ^ s
+15||\exp(t)
+16||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+17||\int r dr
+18||\int q dq
+19||d * e
+20||\cos(e)
+21||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+22||g - o
+23||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+24||\sum_{i=1}^n i_i
+25||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+26||\int n dn
+27||\sum_{i=1}^n h_i
+28||h / u
+29||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+30||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+31||\sum_{i=1}^n s_i
+32||\int d dd
+33||\sum_{i=1}^n g_i
+34||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+35||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+36||\log(h)
+37||i / k
+38||\sum_{i=1}^n t_i
+39||i ^ z
+40||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+41||\cos(p)
+42||\exp(o)
+43||\sum_{i=1}^n z_i
+44||c + k
+45||\sin(w)
+46||x + n
+47||\sum_{i=1}^n s_i
+48||\int i di
+49||z + v
+50||\int d dd
+51||o - p
+52||\sum_{i=1}^n h_i
+53||\tan(e)
+54||\sum_{i=1}^n b_i
+55||i ^ s
+56||\cos(z)
+57||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+58||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+59||\sin(f)
+60||\int v dv
+61||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+62||\int m dm
+63||\int u du
+64||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+65||p * w
+66||\log(h)
+67||\sum_{i=1}^n y_i
+68||\cos(s)
+69||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+70||\exp(b)
+71||\log(p)
+72||\sum_{i=1}^n z_i
+73||\cos(f)
+74||\int d dd
+75||\int t dt
+76||\tan(t)
+77||\log(a)
+78||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+79||\sum_{i=1}^n t_i
+80||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+81||\sum_{i=1}^n k_i
+82||\sum_{i=1}^n r_i
+83||l ^ n
+84||\log(z)
+85||\tan(l)
+86||s / k
+87||\sum_{i=1}^n s_i
+88||w - l
+89||\int d dd
+90||\int d dd
+91||\sum_{i=1}^n s_i
+92||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+93||\cos(j)
+94||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+95||u / k
+96||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+97||\int h dh
+98||\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+99||k * a
