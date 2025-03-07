@@ -1,0 +1,402 @@
+[
+    {
+        "latex_equation": "\\int l dl",
+        "image_path": "latex_images/processed/equation_0.png"
+    },
+    {
+        "latex_equation": "t + o",
+        "image_path": "latex_images/processed/equation_1.png"
+    },
+    {
+        "latex_equation": "i + f",
+        "image_path": "latex_images/processed/equation_10.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n v_i",
+        "image_path": "latex_images/processed/equation_11.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n u_i",
+        "image_path": "latex_images/processed/equation_12.png"
+    },
+    {
+        "latex_equation": "\\int g dg",
+        "image_path": "latex_images/processed/equation_13.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n q_i",
+        "image_path": "latex_images/processed/equation_14.png"
+    },
+    {
+        "latex_equation": "h / g",
+        "image_path": "latex_images/processed/equation_15.png"
+    },
+    {
+        "latex_equation": "\\sin(k)",
+        "image_path": "latex_images/processed/equation_16.png"
+    },
+    {
+        "latex_equation": "l - y",
+        "image_path": "latex_images/processed/equation_17.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n l_i",
+        "image_path": "latex_images/processed/equation_18.png"
+    },
+    {
+        "latex_equation": "\\cos(b)",
+        "image_path": "latex_images/processed/equation_19.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n t_i",
+        "image_path": "latex_images/processed/equation_2.png"
+    },
+    {
+        "latex_equation": "\\int m dm",
+        "image_path": "latex_images/processed/equation_20.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n n_i",
+        "image_path": "latex_images/processed/equation_21.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n y_i",
+        "image_path": "latex_images/processed/equation_22.png"
+    },
+    {
+        "latex_equation": "n / a",
+        "image_path": "latex_images/processed/equation_23.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_24.png"
+    },
+    {
+        "latex_equation": "\\int x dx",
+        "image_path": "latex_images/processed/equation_25.png"
+    },
+    {
+        "latex_equation": "\\log(q)",
+        "image_path": "latex_images/processed/equation_26.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n w_i",
+        "image_path": "latex_images/processed/equation_27.png"
+    },
+    {
+        "latex_equation": "\\int e de",
+        "image_path": "latex_images/processed/equation_28.png"
+    },
+    {
+        "latex_equation": "h + r",
+        "image_path": "latex_images/processed/equation_29.png"
+    },
+    {
+        "latex_equation": "\\log(h)",
+        "image_path": "latex_images/processed/equation_3.png"
+    },
+    {
+        "latex_equation": "\\sin(l)",
+        "image_path": "latex_images/processed/equation_30.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_31.png"
+    },
+    {
+        "latex_equation": "b ^ m",
+        "image_path": "latex_images/processed/equation_32.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_33.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_34.png"
+    },
+    {
+        "latex_equation": "\\int t dt",
+        "image_path": "latex_images/processed/equation_35.png"
+    },
+    {
+        "latex_equation": "u + a",
+        "image_path": "latex_images/processed/equation_36.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n b_i",
+        "image_path": "latex_images/processed/equation_37.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_38.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_39.png"
+    },
+    {
+        "latex_equation": "\\log(h)",
+        "image_path": "latex_images/processed/equation_4.png"
+    },
+    {
+        "latex_equation": "\\sin(v)",
+        "image_path": "latex_images/processed/equation_40.png"
+    },
+    {
+        "latex_equation": "\\sin(k)",
+        "image_path": "latex_images/processed/equation_41.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n y_i",
+        "image_path": "latex_images/processed/equation_42.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n j_i",
+        "image_path": "latex_images/processed/equation_43.png"
+    },
+    {
+        "latex_equation": "\\int i di",
+        "image_path": "latex_images/processed/equation_44.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n b_i",
+        "image_path": "latex_images/processed/equation_45.png"
+    },
+    {
+        "latex_equation": "\\tan(b)",
+        "image_path": "latex_images/processed/equation_46.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_47.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n d_i",
+        "image_path": "latex_images/processed/equation_48.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n s_i",
+        "image_path": "latex_images/processed/equation_49.png"
+    },
+    {
+        "latex_equation": "\\int u du",
+        "image_path": "latex_images/processed/equation_5.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_50.png"
+    },
+    {
+        "latex_equation": "\\exp(v)",
+        "image_path": "latex_images/processed/equation_51.png"
+    },
+    {
+        "latex_equation": "x - q",
+        "image_path": "latex_images/processed/equation_52.png"
+    },
+    {
+        "latex_equation": "\\int n dn",
+        "image_path": "latex_images/processed/equation_53.png"
+    },
+    {
+        "latex_equation": "\\int r dr",
+        "image_path": "latex_images/processed/equation_54.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n a_i",
+        "image_path": "latex_images/processed/equation_55.png"
+    },
+    {
+        "latex_equation": "\\int a da",
+        "image_path": "latex_images/processed/equation_56.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n r_i",
+        "image_path": "latex_images/processed/equation_57.png"
+    },
+    {
+        "latex_equation": "g + d",
+        "image_path": "latex_images/processed/equation_58.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n f_i",
+        "image_path": "latex_images/processed/equation_59.png"
+    },
+    {
+        "latex_equation": "l ^ n",
+        "image_path": "latex_images/processed/equation_6.png"
+    },
+    {
+        "latex_equation": "\\sin(c)",
+        "image_path": "latex_images/processed/equation_60.png"
+    },
+    {
+        "latex_equation": "\\int g dg",
+        "image_path": "latex_images/processed/equation_61.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_62.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n f_i",
+        "image_path": "latex_images/processed/equation_63.png"
+    },
+    {
+        "latex_equation": "k / w",
+        "image_path": "latex_images/processed/equation_64.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n v_i",
+        "image_path": "latex_images/processed/equation_65.png"
+    },
+    {
+        "latex_equation": "\\int y dy",
+        "image_path": "latex_images/processed/equation_66.png"
+    },
+    {
+        "latex_equation": "\\int l dl",
+        "image_path": "latex_images/processed/equation_67.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_68.png"
+    },
+    {
+        "latex_equation": "\\int a da",
+        "image_path": "latex_images/processed/equation_69.png"
+    },
+    {
+        "latex_equation": "\\sin(s)",
+        "image_path": "latex_images/processed/equation_7.png"
+    },
+    {
+        "latex_equation": "\\int a da",
+        "image_path": "latex_images/processed/equation_70.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n d_i",
+        "image_path": "latex_images/processed/equation_71.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_72.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n w_i",
+        "image_path": "latex_images/processed/equation_73.png"
+    },
+    {
+        "latex_equation": "j * m",
+        "image_path": "latex_images/processed/equation_74.png"
+    },
+    {
+        "latex_equation": "\\int i di",
+        "image_path": "latex_images/processed/equation_75.png"
+    },
+    {
+        "latex_equation": "\\int q dq",
+        "image_path": "latex_images/processed/equation_76.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_77.png"
+    },
+    {
+        "latex_equation": "\\tan(w)",
+        "image_path": "latex_images/processed/equation_78.png"
+    },
+    {
+        "latex_equation": "\\int n dn",
+        "image_path": "latex_images/processed/equation_79.png"
+    },
+    {
+        "latex_equation": "\\exp(z)",
+        "image_path": "latex_images/processed/equation_8.png"
+    },
+    {
+        "latex_equation": "\\exp(k)",
+        "image_path": "latex_images/processed/equation_80.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n d_i",
+        "image_path": "latex_images/processed/equation_81.png"
+    },
+    {
+        "latex_equation": "\\tan(b)",
+        "image_path": "latex_images/processed/equation_82.png"
+    },
+    {
+        "latex_equation": "\\int f df",
+        "image_path": "latex_images/processed/equation_83.png"
+    },
+    {
+        "latex_equation": "\\tan(v)",
+        "image_path": "latex_images/processed/equation_84.png"
+    },
+    {
+        "latex_equation": "q * a",
+        "image_path": "latex_images/processed/equation_85.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_86.png"
+    },
+    {
+        "latex_equation": "\\cos(f)",
+        "image_path": "latex_images/processed/equation_87.png"
+    },
+    {
+        "latex_equation": "\\sin(z)",
+        "image_path": "latex_images/processed/equation_88.png"
+    },
+    {
+        "latex_equation": "m * v",
+        "image_path": "latex_images/processed/equation_89.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_9.png"
+    },
+    {
+        "latex_equation": "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}",
+        "image_path": "latex_images/processed/equation_90.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n x_i",
+        "image_path": "latex_images/processed/equation_91.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n g_i",
+        "image_path": "latex_images/processed/equation_92.png"
+    },
+    {
+        "latex_equation": "\\cos(v)",
+        "image_path": "latex_images/processed/equation_93.png"
+    },
+    {
+        "latex_equation": "b + w",
+        "image_path": "latex_images/processed/equation_94.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n h_i",
+        "image_path": "latex_images/processed/equation_95.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n z_i",
+        "image_path": "latex_images/processed/equation_96.png"
+    },
+    {
+        "latex_equation": "v + w",
+        "image_path": "latex_images/processed/equation_97.png"
+    },
+    {
+        "latex_equation": "\\int k dk",
+        "image_path": "latex_images/processed/equation_98.png"
+    },
+    {
+        "latex_equation": "\\sum_{i=1}^n b_i",
+        "image_path": "latex_images/processed/equation_99.png"
+    }
+]
