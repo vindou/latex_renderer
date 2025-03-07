@@ -31,9 +31,15 @@ def generate_summation_equation():
     var = random.choice(variables)
     return f"\\sum_{{i=1}}^n {var}_i"
 
-# Function to generate a matrix equation
+# Function to generate a matrix equation with random size and elements
 def generate_matrix_equation():
-    return "\\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}"
+    rows = random.randint(2, 5)  # Random number of rows (2 to 5)
+    cols = random.randint(2, 5)  # Random number of columns (2 to 5)
+    elements = variables + greek_letters + constants
+    matrix = [[random.choice(elements) for _ in range(cols)] for _ in range(rows)]
+    
+    matrix_str = " \\\\ ".join([" & ".join(row) for row in matrix])
+    return f"\\begin{{bmatrix}} {matrix_str} \\end{{bmatrix}}"
 
 # Function to generate random equations
 def generate_random_equation():
@@ -55,7 +61,7 @@ def generate_latex_equations(n):
 
 # Example Usage
 if __name__ == "__main__":
-    equations = generate_latex_equations(100)
+    equations = generate_latex_equations(100000)
     
     # Save to CSV
     df = pd.DataFrame(equations, columns=['latex_equation'])

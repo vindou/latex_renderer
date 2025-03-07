@@ -37,7 +37,7 @@ with open(mapping_file, "w") as f_map:
             print(f"❌ Error: PDF file {pdf_filename} not found!")
             continue
 
-        subprocess.run(["magick", "convert", "-density", "300", pdf_filename, "-quality", "100", png_filename], check=True)
+        subprocess.run(["convert", "-density", "300", pdf_filename, "-quality", "100", png_filename], check=True)
         os.rename(png_filename, os.path.join(output_dir, os.path.basename(png_filename)))
 
         for ext in [".aux", ".log", ".pdf", ".tex"]:
